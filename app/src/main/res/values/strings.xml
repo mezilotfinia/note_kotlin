@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">kotlin Advanced Course</string>
+    <string name="app_name">kotlin Note</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add_note">add note</string>
