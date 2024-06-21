@@ -1,0 +1,16 @@
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\ui\SingleNoteFragment.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\adapters\CardClickListener.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\hilt\HiltApplication.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\room\RoomDao.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\ui\PlanFragment.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\viewmodel\AppViewModel.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\hilt\module\AppModule.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\adapters\UpcomingRvAdapter.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\repository\AppRepository.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\ui\HomeFragment.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\room\AppDatabase.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\models\NotesModel.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\adapters\PinnedRVAdapter.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\room\NoteTypeConverter.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\room\entities\NoteEntity.kt
+D:\github\kotlin-advanced-course\app\src\main\java\com\besenior\kotlinadvancedcourse\MainActivity.kt

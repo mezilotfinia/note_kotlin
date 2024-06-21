@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\github\\kotlin-advanced-course\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_single_note.xml",
+        "source": "D:\\github\\kotlin-advanced-course\\app\\src\\main\\res\\layout\\fragment_single_note.xml"
+    },
+    {
+        "merged": "D:\\github\\kotlin-advanced-course\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\github\\kotlin-advanced-course\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github\\kotlin-advanced-course\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\upcoming_rv_items.xml",
+        "source": "D:\\github\\kotlin-advanced-course\\app\\src\\main\\res\\layout\\upcoming_rv_items.xml"
+    },
+    {
+        "merged": "D:\\github\\kotlin-advanced-course\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\github\\kotlin-advanced-course\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\github\\kotlin-advanced-course\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\singlenote_appbar.xml",
+        "source": "D:\\github\\kotlin-advanced-course\\app\\src\\main\\res\\layout\\singlenote_appbar.xml"
+    },
+    {
+        "merged": "D:\\github\\kotlin-advanced-course\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pinned_rv_items.xml",
+        "source": "D:\\github\\kotlin-advanced-course\\app\\src\\main\\res\\layout\\pinned_rv_items.xml"
+    }
+]
